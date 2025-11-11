@@ -1,0 +1,1 @@
+artifact_reg_name="test-artifact-reg"

@@ -6,5 +6,5 @@ variable "cluster_name" {
 
 variable "artifact_reg_name" {
   type = string
-  default = "test-registry"
+
 }
